@@ -1,0 +1,30 @@
+/* CSS Document */
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+
+
+
+.sushi {
+	border: solid 2px;
+	border-color: blue;
+	color: blue;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.nachos {
+	border: solid 2px;
+	border-color: red;
+	color: red;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; 
+}
+
+.burgers {
+	border: solid 2px;
+	border-color: green;
+	color: green;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
